@@ -18,4 +18,4 @@ Stratisfication
 The training and test data data were stratisfied by the most important categorical variable and a seperate model was built. This is to avoid Bias in our model
 
 Model Fine Tuning
-All modelels were fine-tuned using Grid-search cross Validation to obtain the best Hyper parameters.
+All models were fine-tuned using Grid-search cross Validation to obtain the best Hyper parameters.
